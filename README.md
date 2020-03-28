@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [APIembed](https://apiembed.com/) - API Code snippets
 
 Auto-generated, code snippets in many programming languages for your website, blog or API docs.
@@ -28,3 +29,7 @@ The [APIembed website](https://github.com/Kong/apiembed/tree/gh-pages) and the [
 ---
 
 Handcrafted by [Kong](https://www.konghq.com/)
+=======
+# apiembed
+Embeddable API code snippets for your website, blog or API documentation
+>>>>>>> 0581fa50c960f3a637a64363fdb424073939d3d3
